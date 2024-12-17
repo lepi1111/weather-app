@@ -1,7 +1,8 @@
 "use client";
-import HeadingWithDescription from "../HeadingWithDescription";
-import TemperatureScaleSwitcher from "../TemperatureScaleSwitcher";
+
 import CountryText from "./CountryText";
+import HeadingWithDescription from "./HeadingWithDescription";
+import TemperatureScaleSwitcher from "./TemperatureScaleSwitcher";
 // import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 
 export default function TodayBox() {
