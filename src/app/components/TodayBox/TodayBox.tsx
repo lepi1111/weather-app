@@ -7,7 +7,7 @@ import TemperatureScaleSwitcher from "./TemperatureScaleSwitcher";
 
 export default function TodayBox() {
   return (
-    <div className="text-text-primary bg-bg-secondary w-[42.25rem] h-[23.125rem] flex flex-row justify-between items-center rounded-3xl">
+    <div className="text-text-primary bg-bg-secondary w-[42rem] h-[23rem] flex flex-row justify-between items-center rounded-3xl">
       <div className="pl-14 flex flex-col gap-6">
         <CountryText />
         <div className="flex flex-col gap-2">
